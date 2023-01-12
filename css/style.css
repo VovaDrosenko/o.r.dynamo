@@ -140,6 +140,8 @@ text-shadow: 2px 0 2px #000,
     }
     header{height: 55px;}
     header h1 {
+        
+        margin-left: 80px;
         font-size: 25px;
     }
     #menu{
@@ -162,7 +164,7 @@ text-shadow: 2px 0 2px #000,
     }
     header{height: 55px;}
     header h1 {
-        font-size: 21px;
+        font-size: 25px;
         
         margin-left: 80px;
     }
